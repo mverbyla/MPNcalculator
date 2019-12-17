@@ -1,0 +1,10 @@
+name: shine
+title:
+username:
+account: mpn-calculator
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1606178
+bundleId: 2674702
+url: https://mpn-calculator.shinyapps.io/shine/
+when: 1576570569.84452
